@@ -1,2 +1,2 @@
 # JavaScipt
-Learning JS 
+Learing JS 
