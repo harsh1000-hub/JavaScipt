@@ -26,4 +26,4 @@ console.log(animalName);
 let lastName = "Vardhan";
 let sliceString = lastName.slice(0,3+1); // slice(startIndex,endIndex+1)
 // lastName.slice(1) == ardhan
-console.log(sliceString);z
+console.log(sliceString);
