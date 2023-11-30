@@ -25,3 +25,8 @@ console.log(3+2+"1");
 let str1 = "Harsh" , str2="Vardhan"
 let str3 = str1 + str2 // string concatenation
 console.log(str3); // HarshVardhan
+let temp = 1+2+"3";
+let temp_1 = "2"+1+3;
+console.log(typeof temp);  // O/P -> string  33
+console.log(typeof temp_1); // O/P -> string 213
+
